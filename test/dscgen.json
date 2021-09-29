@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "A",
+  "prefix": "a!"
+}
