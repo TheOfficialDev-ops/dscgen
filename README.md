@@ -89,3 +89,4 @@ Implementation Provided Soon
 ```
 
 ### Note: DSC GEN Is an upgraded fork of [SLAPPEY](https://github.com/stuy/slappey)
+Original Base Credits go to the developer of SLAPPEY.
